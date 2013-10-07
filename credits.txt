@@ -1,0 +1,18 @@
+Devin Paden
+October 1, 2013
+
+This game is based upon SALVO/Batteship see: http://en.wikipedia.org/wiki/Battleship_%28game%29
+
+CREDITS
+
+1.  Ruby on Rails Tutorial: Learn Web Development with Rails. Copyright © 2013 by Michael Hartl
+
+	Elements of the source code is heavily inspired by if not downright copied from railstutorial.org 
+	by Micheal Hartl.  This resource is updated as new versions of ruby/rails are made available.  
+	His authentication/session logic is by in large forklifted from this tutorial with modest changes in 
+	implementation which are called out in the header comments.  Several CSS and form elements are used
+	as well.
+	The MIT and Beerware licenses apply
+	http://opensource.org/licenses/MIT
+	http://people.freebsd.org/~phk/
+

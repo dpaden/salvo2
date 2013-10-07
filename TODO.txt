@@ -1,0 +1,16 @@
+Stored xss
+Expire session http://stackoverflow.com/questions/17480487/rails-4-session-expiry
+Remove from address
+Error messages
+Session idle time, example session code may need to be thrown out.
+Invalidate old session on  login
+I think the example MicroPosts Controller has an injection bug.  Could set user_id = 1==1
+If user is logged in they don't need a register button....
+sign in the user when they register
+Referer stored in db
+Set cookie secure
+Http only on cookies
+Make sure we are stripping meta chars
+No redirects forwards
+Cache-control:no-store
+Careful with eval
